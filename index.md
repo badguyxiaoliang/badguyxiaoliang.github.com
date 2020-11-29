@@ -2,5 +2,5 @@
 #### 姓名：阿量
 #### 性别：男
 #### 爱好打篮球
-![Image text]
-(1445920275120712.jpg)
+[Image text]!
+(http://github.com/badguyxiaoliang/tp/raw/master/01.jpg)
